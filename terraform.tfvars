@@ -1,0 +1,7 @@
+azure_location="West Europe" 
+vm_name="Linuxvm"
+vm_size="Standard_DS2_v2"
+os_image="os1"
+storage_account_name= "myfirststoremri"
+storage_account_type="Standard"
+replication_type="LRS"
